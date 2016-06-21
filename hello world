@@ -1,0 +1,15 @@
+<!DOCTYPE HTML> //this is my first of many javascript programs.
+<html>
+<body>
+
+	<p>Header...</p>
+	
+	<script>
+		aler('Hello World!')
+	</script>
+	
+	<p>...Footer</p>
+	
+	</body>
+	<html>
+	
